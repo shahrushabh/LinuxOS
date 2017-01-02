@@ -4,9 +4,9 @@
 
 ###### Topics include:
 
-* Threads
-* Interrupts
-* Process Scheduling Algorithms
+* [Threads] (Threads/)
+* [Interrupts] (Interrupts/)
+* [Process_Scheduling_Algorithms] (Process_Scheduling/)
 * Memory Management
 * Bootsector
 * fat12 File System
